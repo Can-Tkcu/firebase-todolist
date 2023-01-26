@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cant-todolist": {
+      "hosting": {
+        "firebase-todolist": [
+          "cant-todolist"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cant-todolist"
+  }
+}
